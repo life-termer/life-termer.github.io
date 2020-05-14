@@ -1,10 +1,13 @@
 ---
 layout: default
 ---
+## My Repositories
 
-[LastFM Bot](https://life-termer.github.io/LastFMBot/)
+* [LastFM Bot](https://life-termer.github.io/LastFMBot/)
 
-[Minesweeper Game](https://life-termer.github.io/Minesweeper/)
+* [Minesweeper Game](https://life-termer.github.io/Minesweeper/)
+
+* [Puzzle Game](https://life-termer.github.io/Picture-Puzzle-Game/)
 
 
 <div class="home">
@@ -27,7 +30,7 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
-    
+
   {%- endif -%}
 
 </div>
