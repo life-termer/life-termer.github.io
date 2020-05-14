@@ -4,3 +4,4 @@
 
 layout: home
 ---
+[LastFM Bot](https://life-termer.github.io/LastFMBot/)
