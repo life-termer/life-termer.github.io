@@ -22,6 +22,7 @@ title: Dmitry Surchin
 email: dsurchin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   There will be something about me someday...
+  email: dsurchin@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -29,7 +30,7 @@ github_username:  life-termer
 
 # Build settings
 theme: jekyll-theme-minimal
-logo: /assets/logo.png/
+logo: assets/logo.png
 plugins:
   - jekyll-feed
 
