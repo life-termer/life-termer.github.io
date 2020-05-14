@@ -30,7 +30,7 @@ github_username: life-termer
 
 # Build settings
 theme: jekyll-theme-minimal
-logo: /assets/logo.png/
+logo: assets/logo.png
 show_downloads: false
 plugins:
   - jekyll-feed
