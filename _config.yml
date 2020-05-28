@@ -21,7 +21,8 @@
 title: Dmitry Surchin
 email: dsurchin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Student (Informatics Engineer) at Višja strokovna šola B2, Ljubljana, Slovenia
+ Student (Informatics Engineer) at Higher Vocational College B2</br>
+ Live in Ljubljana, Slovenia
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,7 +32,7 @@ github_username: life-termer
 # Build settings
 theme: jekyll-theme-minimal
 logo: assets/logo.png
-show_downloads: false
+show_downloads: true
 plugins:
   - jekyll-feed
 
