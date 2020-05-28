@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## My Repositories
+## My Portfolio
 
 * [LastFM Bot](https://life-termer.github.io/LastFMBot/)
 
