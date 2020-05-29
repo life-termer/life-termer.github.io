@@ -3,14 +3,25 @@ layout: default
 ---
 ## My Portfolio
 
-* [LastFM Bot](https://life-termer.github.io/LastFMBot/)
+* **[LastFM Bot](https://life-termer.github.io/LastFMBot/)** -
+   _Tlelegram bot in Java with JSon._
 
-* [Minesweeper Game](https://life-termer.github.io/Minesweeper/)
+  [<img src="docs/LastFmBot_icon.png">](https://life-termer.github.io/LastFMBot/)
 
-* [Puzzle Game](https://life-termer.github.io/Picture-Puzzle-Game/)
+* **[Minesweeper](https://life-termer.github.io/Minesweeper/)** -
+  _Game in Java._
+
+  [<img src="docs/Minesweeper_icon.png">](https://life-termer.github.io/Minesweeper/)
+
+* **[Puzzle Game](https://life-termer.github.io/Picture-Puzzle-Game/)** -
+  _Simple puzzle game in Java._
+
+  [<img src="docs/PPG_icon.png">](https://life-termer.github.io/Picture-Puzzle-Game/)
 
 
-<div class="home">
+
+
+<!--<div class="home">
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
@@ -33,4 +44,4 @@ layout: default
 
   {%- endif -%}
 
-</div>
+</div>-->
