@@ -4,7 +4,7 @@ layout: default
 ## My Portfolio
 
 * **[LastFM Bot](https://life-termer.github.io/LastFMBot/)** -
-   _Tlelegram bot in Java with JSon._
+   _Tlelegram bot in Java with JSoup library._
 
   [<img src="docs/LastFmBot_icon.png">](https://life-termer.github.io/LastFMBot/)
 
