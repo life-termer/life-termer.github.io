@@ -4,7 +4,7 @@ layout: default
 ## My Projects
 
 * **[LastFM Bot](https://life-termer.github.io/LastFMBot/)** -
-   _Telegram bot in Java._
+ _Telegram bot in Java._
 
   [<img src="docs/LastFmBot_icon.png">](https://life-termer.github.io/LastFMBot/)
 
