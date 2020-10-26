@@ -3,6 +3,11 @@ layout: default
 ---
 ## My Projects
 
+* **[Home Movie Library](https://life-termer.github.io/home-movie-library/)** -
+ _CRUD web application with Java MVC and Hibernate_
+
+ [<img src="docs/home-movie-library_icon.png">](https://life-termer.github.io/home-movie-library/)
+
 * **[LastFM Bot](https://life-termer.github.io/LastFMBot/)** -
  _Telegram bot in Java._
 
