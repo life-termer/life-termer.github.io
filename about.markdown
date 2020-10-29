@@ -18,4 +18,4 @@ Couple years ago I decided to change my career, start form scratch and get into 
 
 Now I am looking for a place for student internship. I’ve already known a thing or two about Java programming, have made couple simple projects and I’m looking forward to apply my knowledge in practice. Meanwhile, I’m studding Spring and Hibernate frameworks.
 
-Next year I am planning to graduate and find a permanent job in Slovenia. So, feel free to contact me anytime. :simple_smile:
+Next year I am planning to graduate and find a permanent job in Slovenia. So, feel free to contact me anytime.😀
