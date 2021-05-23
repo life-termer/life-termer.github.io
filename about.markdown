@@ -6,7 +6,7 @@ permalink: /about/
 
 #### Who I am and what I am doing.
 
-My name is Dmitry Surchin and I'm student at Higher vocational school B2 in Ljubljana. I am studding computer science and at my free time Java programming.
+My name is Dmitry Surchin and I'm student at Higher vocational school B2 in Ljubljana. I am studding computer science and at my free time Java and C# programming.
 
 #### How I got here.
 
@@ -16,6 +16,4 @@ Couple years ago I decided to change my career, start form scratch and get into 
 
 #### Where I am looking to go next.
 
-Now I am looking for a place for student internship. I’ve already known a thing or two about Java programming, have made couple simple projects and I’m looking forward to apply my knowledge in practice. Meanwhile, I’m studding Spring and Hibernate frameworks.
-
-Next year I am planning to graduate and find a permanent job in Slovenia. So, feel free to contact me anytime.😀
+Now I am looking for a place for IT internship related to software development and I'am lookong forward to apply my knowledge in practice. Meanwhile, I’m studding Java Spring and Hibernate frameworks and .Net environment. So, feel free to contact me anytime.😀
